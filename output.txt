@@ -1,0 +1,23 @@
+Grafo creato: 4 nodi, 5 archi
+
+Uso CycleDetector
+Esistono cicli?
+true
+vertex: 1
+[1, 2, 3, 4]
+
+vertex: 2
+[1, 2, 3, 4]
+
+vertex: 3
+[1, 2, 3, 4]
+
+vertex: 4
+[1, 2, 3, 4]
+
+Uso TiernanSimpleCycles
+Cycle #: 0. Numer of vertex: 4
+[1, 2, 3, 4]
+
+Cycle #: 1. Numer of vertex: 2
+[1, 2]
